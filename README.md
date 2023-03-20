@@ -1,5 +1,5 @@
 # CS432-NetworkSecurity
-Albert Levi &lt;3
+#
 In this project, you will implement a client-server application for establishing mechanisms for   
 a secure and authenticated distributed file system. In this system, there will be three instances   
 of Server module and an arbitrary amount of instances of a Client module.  
